@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+BLOC TECHNICAL assignment MOVIEDB 
 
-Things you may want to cover:
+About 
+An application that uses the MovieDB API , Lists popular tv shows with their synposis ratings and popularity 
 
-* Ruby version
 
-* System dependencies
+TECH USED 
+Ruby on rails , HTML 
 
-* Configuration
+GEMS USED 
+httparty , bootstrap , addressable 
 
-* Database creation
 
-* Database initialization
+Updates in the future 
 
-* How to run the test suite
+adding devise and user authentication , reviews for each user , cleaning up the html and css 
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
